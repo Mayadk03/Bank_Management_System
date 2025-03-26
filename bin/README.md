@@ -34,7 +34,7 @@ This project is a simple Bank Management System built using Java, MySQL, and Swi
    ![Sign-Up Page 4](icons/signup4.png)
 
 ### 3. **FastCash**
-   - Allows users to quickly deposit or withdraw money using predefined amounts.
+   - Allows users to quickly  withdraw money using predefined amounts.
 
    ![FastCash Screen](icons/fastcash.png)
 
@@ -51,7 +51,7 @@ This project is a simple Bank Management System built using Java, MySQL, and Swi
 ### 6. **Balance Enquiry**
    - Displays the current balance of the user's account.
 
-   ![Balance Enquiry Screen](icons/balanceenqry.png)
+   ![Balance Enquiry Screen](icons/balancenqry.png)
 
 ### 7. **PIN Change**
    - Allows users to securely change their PIN.
