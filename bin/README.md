@@ -23,7 +23,7 @@ This project is a simple Bank Management System built using Java, MySQL, and Swi
    - Users can log in with their credentials to access the system.
    - Admin and customer roles are supported.
 
-   ![Login Screen](icons/login.png)
+   ![Login Screen](icons/loginpage.png)
 
 ### 2. **Sign-Up Pages**
    - Users can create a new account by providing necessary details like name, email, and initial deposit.
